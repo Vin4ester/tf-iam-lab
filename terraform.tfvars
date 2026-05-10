@@ -1,0 +1,7 @@
+aws_region                = "us-east-1"
+project_id                = "cmtr-yhotz312"
+bucket_name               = "cmtr-yhotz312-bucket-1778406037"
+iam_group_name            = "cmtr-yhotz312-iam-group"
+iam_policy_name           = "cmtr-yhotz312-iam-policy"
+iam_role_name             = "cmtr-yhotz312-iam-role"
+iam_instance_profile_name = "cmtr-yhotz312-iam-instance-profile"
